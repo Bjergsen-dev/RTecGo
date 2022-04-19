@@ -1,0 +1,7 @@
+./.DS_Store
+./Podfile
+./Podfile.lock
+./Pods/
+./RTectGo.xcodeproj/
+./RTectGo.xcworkspace/
+./VideoPreviewer/
